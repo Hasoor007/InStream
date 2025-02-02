@@ -1,3 +1,4 @@
 # InStream
-- Login:
-** JWT
+
+##Login:
+- Security: `JW`

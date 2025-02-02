@@ -7,7 +7,7 @@ Signup           | pending     | Not sure what to use exactly??
 Database         | Done | Setup the basic database 
 
 ## Login:
-- Security: `JW`, `brute-force protection middleware`
+- Security: `JWT`, `brute-force protection middleware`
 - Fields: `Username` and `Password`
 
 ## Signup

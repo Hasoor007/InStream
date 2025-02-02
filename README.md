@@ -1,10 +1,10 @@
 # InStream
 
-Stages           | Status
----------------- | -------------- 
-Login            | pending       
-Signup           | pending     
-Database         | Done 
+Stages           | Status | Issues/Comment
+---------------- | -------------- | -------------- 
+Login            | pending       | Not sure what to use exactly??
+Signup           | pending     | Not sure what to use exactly??
+Database         | Done | Setup the basic database 
 
 ## Login:
 - Security: `JW`
